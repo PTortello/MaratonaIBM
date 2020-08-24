@@ -1,7 +1,6 @@
 """
 Pedro Tortello - 24/08/2020
 IBM Behind the code marathon - Challenge #3
-
 Retrieves data from given urls and saves into JSON files.
 For "body" content check TXT file.
 """
